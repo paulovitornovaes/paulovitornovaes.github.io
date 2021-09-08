@@ -135,10 +135,12 @@ header{
     position: fixed;
     top: 0;
     right: -20rem;
+    transition: 1s;
 }
 
 .sidebar.show-menu{
     right: 0;
+    transition: 1s;
 }
 
 .menu{
